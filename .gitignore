@@ -1,5 +1,7 @@
 *.pyc
 build
 dist
+deb_dist
+VERSION
 .idea
 patch_ng.egg-info
