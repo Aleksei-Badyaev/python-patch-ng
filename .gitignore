@@ -4,4 +4,5 @@ dist
 deb_dist
 VERSION
 .idea
+.vscode
 patch_ng.egg-info
