@@ -101,6 +101,7 @@ setup(
     #extras_require={
     #    'test': get_requires(os.path.join('tests', 'requirements_test.txt'))
     #},
+    extras_require={'dev': ['stdeb3']},
 
     # If there are data files included in your packages that need to be
     # installed, specify them here.  If using Python 2.6 or less, then these

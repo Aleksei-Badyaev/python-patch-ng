@@ -1,0 +1,13 @@
+{
+    "files": [
+        {   "pattern": "dist/*.tar.gz",
+            "target": "mousesoft/patch-ng/VERSION/BRANCH/"
+        },
+        {   "pattern": "dist/*.whl",
+            "target": "mousesoft/patch-ng/VERSION/BRANCH/"
+        },
+        {   "pattern": "deb_dist/*.deb",
+            "target": "mousesoft/patch-ng/VERSION/BRANCH/"
+        }
+    ]
+}
