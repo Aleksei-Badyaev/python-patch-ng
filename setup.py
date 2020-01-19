@@ -37,6 +37,7 @@ def load_version():
         version = re.search('__version__ = "([0-9a-z.-]+)"', content).group(1)
         return version
 
+
 setup(
     name='patch-ng',
     # Versions should comply with PEP440.  For a discussion on single-sourcing
